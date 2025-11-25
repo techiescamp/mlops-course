@@ -1,0 +1,7 @@
+.env
+venv
+*.ipynb
+__pycache__/
+*/__pycache__/
+model.py
+tuning_evaluation.py
